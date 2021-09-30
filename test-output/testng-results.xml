@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1541" started-at="2021-09-30T20:20:27 IST" finished-at="2021-09-30T20:20:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1541" started-at="2021-09-30T20:20:27 IST" finished-at="2021-09-30T20:20:29 IST">
+      <class name="com.qa.superteetestcases.Homepagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.superteetestcases.Homepagetest@fe18270]" name="setup" is-config="true" duration-ms="19178" started-at="2021-09-30T20:20:08 IST" finished-at="2021-09-30T20:20:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickonsignin()[pri:0, instance:com.qa.superteetestcases.Homepagetest@fe18270]" name="clickonsignin" duration-ms="1383" started-at="2021-09-30T20:20:27 IST" finished-at="2021-09-30T20:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonsignin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.superteetestcases.Homepagetest@fe18270]" name="teardown" is-config="true" duration-ms="1" started-at="2021-09-30T20:20:29 IST" finished-at="2021-09-30T20:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.superteetestcases.Homepagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
